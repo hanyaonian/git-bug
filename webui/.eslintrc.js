@@ -42,8 +42,8 @@ module.exports = {
       },
       parserOptions: {
         schema: './src/schema.json',
-        operations: './src/**/*.graphql'
-      }
+        operations: './src/**/*.graphql',
+      },
     },
   ],
 };
